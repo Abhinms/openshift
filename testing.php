@@ -1,5 +1,3 @@
 <?php
-
-print "i am sheth\n";
-
+echo "Hello World!";
 ?>
